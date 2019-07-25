@@ -13,8 +13,7 @@
 
 #### Documentation
 * [api docs](http://xyz.com) (API servers)
-* [jsdoc](http://xyz.com) (Server assignments)
-* [styleguide](http://xyz.com) (React assignments)
+* [jsdoc](https://lap11.herokuapp.com/docs/) (Server assignments)
 
 ### Modules
 #### `modulename.js`
@@ -30,18 +29,17 @@ Usage Notes or examples
 #### `.env` requirements
 * `PORT` - Port Number
 * `MONGODB_URI` - URL to the running mongo instance/db
-
+* `SECRET` - Arbitrary string
 #### Running the app
 * `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+* Endpoint: `/signup`
+  * Returns a token
+* Endpoint: `/signin`
+  * Returns a token
   
 #### Tests
 * How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
-
+  * npm test
+  
 #### UML
 Link to an image of the UML for your application and response to events
