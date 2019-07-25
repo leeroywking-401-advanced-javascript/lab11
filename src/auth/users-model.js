@@ -29,6 +29,7 @@ users.statics.authenticateBasic = function(auth) {
 };
 
 // Compare a plain text password against the hashed one we have saved
+
 users.methods.comparePassword = function(password) {
   return bcrypt.compare(password, this.password)
   .then(valid => valid ? this : null);

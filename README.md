@@ -1,13 +1,14 @@
-# LAB - 
+# LAB - Lab11
 
 ## Project Name
 
-### Author: Student/Group Name
+### Author: Lee-Roy King
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
+* [submission PR](https://github.com/leeroywking-401-advanced-javascript/lab11/pull/1)
+* [![Build Status](https://www.travis-ci.com/leeroywking-401-advanced-javascript/lab11.svg?branch=weds)](https://www.travis-ci.com/leeroywking-401-advanced-javascript/lab11)
+* ^ travis
+* [back-end](https://lap11.herokuapp.com/) (when applicable)
 * [front-end](http://xyz.com) (when applicable)
 
 #### Documentation

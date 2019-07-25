@@ -14,6 +14,7 @@ const authRouter = require( './auth/router.js' );
 const app = express();
 
 // App Level MW
+
 app.use(cors());
 app.use(morgan('dev'));
 
