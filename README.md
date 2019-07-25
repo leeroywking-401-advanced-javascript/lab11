@@ -40,6 +40,6 @@ Usage Notes or examples
 #### Tests
 * How do you run tests?
   * npm test
-  
+
 #### UML
-Link to an image of the UML for your application and response to events
+![img](https://github.com/leeroywking-401-advanced-javascript/lab11/blob/weds/UMLlab11.jpeg)
