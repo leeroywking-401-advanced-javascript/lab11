@@ -36,6 +36,10 @@ Usage Notes or examples
   * Returns a token
 * Endpoint: `/signin`
   * Returns a token
+* Endpoint: `/books
+  * returns all the books (if you are authenticated)
+* Endpoint: `/books/:id`
+  * returns moby dick no matter what you enter for id
   
 #### Tests
 * How do you run tests?
